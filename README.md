@@ -12,7 +12,7 @@
   -  part_c.ipynb
 -  Create virtual env folder: `python -m venv .venv`
 -  Activate virtual env
-  - Linux:  `source .venv/bin/activate`
-  - Windows: `venv\Scripts\activate`
+   - Linux:  `source .venv/bin/activate`
+   - Windows: `.venv\Scripts\activate`
 - Install packages: `pip install -r requirements.txt`
 - Start jupyter notebook: `jupyter notebook`
