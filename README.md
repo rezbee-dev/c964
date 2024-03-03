@@ -16,3 +16,7 @@
    - Windows: `.venv\Scripts\activate`
 - Install packages: `pip install -r requirements.txt`
 - Start jupyter notebook: `jupyter notebook`
+- Run all cells
+- Scroll to the bottom of the page to input values
+  - Click "Predict" after values are entered
+  - Click "Simulate" to prepopulate values
