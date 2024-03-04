@@ -12,6 +12,7 @@
 - Scroll to the bottom of the page
 - Interact with the application by entering in data, or pressing "Simulate" to prepopulate data
 - Click "Predict" to run machine learning model on the data
+  - ![image](https://github.com/rezbee-dev/c964/assets/131298724/a4175e48-4d74-4ce7-96b5-1227881472f4)
 
 ### Running in Binder
 - Navigate to https://mybinder.org/v2/gh/rezbee-dev/c964/HEAD
